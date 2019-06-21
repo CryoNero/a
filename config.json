@@ -1,0 +1,62 @@
+{
+    "algo": "cryptonight-pico/trtl",
+    "api": {
+        "id": null,
+        "worker-id": null
+    },
+    "http": {
+        "enabled": false,
+        "host": "127.0.0.1",
+        "port": 0,
+        "access-token": null,
+        "restricted": true
+    },
+    "asm": false,
+    "autosave": true,
+    "av": 0,
+    "background": false,
+    "colors": false,
+    "cpu-affinity": null,
+    "cpu-priority": null,
+    "donate-level": 1,
+    "donate-over-proxy": 1,
+    "huge-pages": true,
+    "hw-aes": false,
+    "log-file": null,
+    "max-cpu-usage": 100,
+    "pools": [
+        {
+            "url": "pool.xtendcash.hashvault.pro:3333",
+            "user": "XtazhYAedRdWEHdHCiqwWAbwsd4n8veGUMZotJ8QRZEDDGGfe8kdrhKes4vg3L6f6279B5QYFU1fDBpNQvGeiLosAq2LAvryj8m:TRTLv3i1S6WSU1N3BAzJ7PTJWZBRccFKobRbFnUpy5UuaFCVx8uHbH5PnWewNt2Y91Z3zzLHLcCX6TcEikeDGfdDgJeLWgueF6q",
+            "pass": "dell",
+            "rig-id": null,
+            "nicehash": false,
+            "keepalive": false,
+            "variant": "trtl",
+            "enabled": true,
+            "tls": false,
+            "tls-fingerprint": null,
+            "daemon": false,
+            "daemon-poll-interval": 1000
+        }
+    ],
+    "print-time": 60,
+    "retries": 5,
+    "retry-pause": 5,
+    "safe": false,
+    "threads": [
+        {
+            "low_power_mode": 1,
+            "affine_to_cpu": false,
+            "asm": false
+        },
+        {
+            "low_power_mode": 1,
+            "affine_to_cpu": false,
+            "asm": false
+        }
+    ],
+    "user-agent": null,
+    "syslog": false,
+    "watch": true
+}
