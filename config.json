@@ -28,7 +28,7 @@
         {
             "url": "pool.xtendcash.hashvault.pro:3333",
             "user": "XtazhYAedRdWEHdHCiqwWAbwsd4n8veGUMZotJ8QRZEDDGGfe8kdrhKes4vg3L6f6279B5QYFU1fDBpNQvGeiLosAq2LAvryj8m:TRTLv3i1S6WSU1N3BAzJ7PTJWZBRccFKobRbFnUpy5UuaFCVx8uHbH5PnWewNt2Y91Z3zzLHLcCX6TcEikeDGfdDgJeLWgueF6q",
-            "pass": "g5",
+            "pass": "p30",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
@@ -44,7 +44,7 @@
     "retries": 5,
     "retry-pause": 5,
     "safe": false,
-    "threads": 3,
+    "threads": 7,
     "user-agent": null,
     "syslog": false,
     "watch": true
